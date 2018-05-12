@@ -1,0 +1,35 @@
+_repo: The-Free-RangersA-Story-of-the-Early-Days-Along-the-Mississippi_15055
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, J. A. (Joseph Alexander)
+    - Altsheler, Joseph Alexander
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: '"The free rangers," while an independent story in itself, continues
+  the fortunes of the two boys and their comrades who were the central characters
+  in "The young trailers," "The forest runners," "The keepers of the trail," and "The
+  eyes of the woods."'
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcsh 'Mississippi River -- Juvenile fiction'
+title: 'The Free Rangers: A Story of the Early Days Along the Mississippi'
+url: http://www.gutenberg.org/ebooks/15055
